@@ -3,9 +3,10 @@ Um jogo de navegador onde você precisa adivinhar um número secreto em um campo
 <Br>
 
 - **Funcionalidades:**
-  - Adivinhe o número: Insira um número no campo de texto para fazer um palpite.
-  - Dicas interativas: O jogo informa se o número secreto é maior ou menor que o seu palpite.
-  - Contagem de tentativas: Acompanhe quantas tentativas foram necessárias para acertar o número.
-  - Reiniciar o jogo: Depois de acertar, um botão de reiniciar aparece para que você possa jogar novamente.
+  - **Adivinhe o número:** Insira um número no campo de texto para fazer um palpite.
+  - **Dicas interativas:** O jogo informa se o número secreto é maior ou menor que o seu palpite.
+  - **Contagem de tentativas:** Acompanhe quantas tentativas foram necessárias para acertar o número.
+  - **Reiniciar o jogo:** Depois de acertar, um botão de reiniciar aparece para que você possa jogar novamente.
 
 Encontre mais informações nas branches dedicadas aos módulos.
+
